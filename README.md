@@ -1,7 +1,4 @@
-# 🚨 CYBER SECURITY INTERNSHIP @ ELEVATE LABS
-
-
-📝 TASK – 1: Reconnaissance & Vulnerability Assessment
+# 🚨 Reconnaissance & Vulnerability Assessment
 
 
 This task involved performing reconnaissance and vulnerability assessment on a target Linux Virtual Machine (VM) using tools like **Nmap** and **Wireshark** to uncover active services, analyze traffic, and assess security risks.
