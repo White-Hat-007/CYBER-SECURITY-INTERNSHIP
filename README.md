@@ -1,4 +1,4 @@
-# 🔍 Reconnaissance & Vulnerability Assessment Report
+# 🔍 Reconnaissance & Vulnerability Assessment
 
 This task involved performing reconnaissance and vulnerability assessment on a target **Linux Virtual Machine (VM)** using tools like **Nmap** and **Wireshark** to uncover active services, analyze traffic, and assess potential security risks.
 
