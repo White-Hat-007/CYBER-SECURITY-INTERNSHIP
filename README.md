@@ -129,3 +129,13 @@ nmap -sS 10.0.2.15/24
 | **Nmap**   | Port scanning and host discovery       |
 | **Wireshark** | Deep packet inspection and traffic analysis |
 | **Manual Research** | Interpreting services, vulnerabilities (CVE lookups), and security recommendations |
+
+---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
